@@ -1,0 +1,322 @@
+[2021-10-13T21:04:59.243] [INFO] json-server - JSON Server is running
+[2021-10-13T21:06:34.194] [INFO] json-server - ===== request =====
+[2021-10-13T21:06:34.194] [INFO] json-server - URL: /api/account
+[2021-10-13T21:06:34.194] [INFO] json-server - GET
+[2021-10-13T21:06:34.194] [INFO] json-server - header: 
+[2021-10-13T21:06:34.194] [INFO] json-server - {
+  host: 'localhost:48080',
+  connection: 'keep-alive',
+  'sec-ch-ua-mobile': '?0',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36',
+  'sec-ch-ua-platform': '"Windows"',
+  'sec-ch-ua': '"Chromium";v="94", "Google Chrome";v="94", ";Not A Brand";v="99"',
+  accept: '*/*',
+  'sec-fetch-site': 'none',
+  'sec-fetch-mode': 'cors',
+  'sec-fetch-dest': 'empty',
+  'accept-encoding': 'gzip, deflate, br',
+  'accept-language': 'ja,en-US;q=0.9,en;q=0.8'
+}
+[2021-10-13T21:06:34.195] [INFO] json-server - query: 
+[2021-10-13T21:06:34.195] [INFO] json-server - {}
+[2021-10-13T21:06:52.896] [INFO] json-server - ===== request =====
+[2021-10-13T21:06:52.897] [INFO] json-server - URL: /api/account
+[2021-10-13T21:06:52.897] [INFO] json-server - POST
+[2021-10-13T21:06:52.897] [INFO] json-server - header: 
+[2021-10-13T21:06:52.897] [INFO] json-server - {
+  host: 'localhost:48080',
+  connection: 'keep-alive',
+  'content-length': '0',
+  'sec-ch-ua-mobile': '?0',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36',
+  'sec-ch-ua': '"Chromium";v="94", "Google Chrome";v="94", ";Not A Brand";v="99"',
+  'sec-ch-ua-platform': '"Windows"',
+  'content-type': 'application/json',
+  accept: '*/*',
+  'sec-fetch-site': 'none',
+  'sec-fetch-mode': 'cors',
+  'sec-fetch-dest': 'empty',
+  'accept-encoding': 'gzip, deflate, br',
+  'accept-language': 'ja,en-US;q=0.9,en;q=0.8'
+}
+[2021-10-13T21:06:52.897] [INFO] json-server - body: 
+[2021-10-13T21:06:52.897] [INFO] json-server - {}
+[2021-10-13T21:06:52.898] [INFO] json-server - undefined
+[2021-10-13T21:06:52.898] [INFO] json-server - query: 
+[2021-10-13T21:06:52.898] [INFO] json-server - {}
+[2021-10-14T09:29:17.289] [INFO] json-server - ===== request =====
+[2021-10-14T09:29:17.289] [INFO] json-server - URL: /api/account
+[2021-10-14T09:29:17.289] [INFO] json-server - POST
+[2021-10-14T09:29:17.289] [INFO] json-server - header: 
+[2021-10-14T09:29:17.289] [INFO] json-server - {
+  host: 'localhost:48080',
+  connection: 'keep-alive',
+  'content-length': '0',
+  'sec-ch-ua-mobile': '?0',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36',
+  'sec-ch-ua': '"Chromium";v="94", "Google Chrome";v="94", ";Not A Brand";v="99"',
+  'sec-ch-ua-platform': '"Windows"',
+  'content-type': 'application/json',
+  accept: '*/*',
+  'sec-fetch-site': 'none',
+  'sec-fetch-mode': 'cors',
+  'sec-fetch-dest': 'empty',
+  'accept-encoding': 'gzip, deflate, br',
+  'accept-language': 'ja,en-US;q=0.9,en;q=0.8'
+}
+[2021-10-14T09:29:17.290] [INFO] json-server - body: 
+[2021-10-14T09:29:17.290] [INFO] json-server - {}
+[2021-10-14T09:29:17.290] [INFO] json-server - undefined
+[2021-10-14T09:29:17.290] [INFO] json-server - query: 
+[2021-10-14T09:29:17.290] [INFO] json-server - {}
+[2021-10-14T09:29:19.380] [INFO] json-server - ===== request =====
+[2021-10-14T09:29:19.380] [INFO] json-server - URL: /api/account
+[2021-10-14T09:29:19.380] [INFO] json-server - POST
+[2021-10-14T09:29:19.380] [INFO] json-server - header: 
+[2021-10-14T09:29:19.380] [INFO] json-server - {
+  host: 'localhost:48080',
+  connection: 'keep-alive',
+  'content-length': '0',
+  'sec-ch-ua-mobile': '?0',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36',
+  'sec-ch-ua': '"Chromium";v="94", "Google Chrome";v="94", ";Not A Brand";v="99"',
+  'sec-ch-ua-platform': '"Windows"',
+  'content-type': 'application/json',
+  accept: '*/*',
+  'sec-fetch-site': 'none',
+  'sec-fetch-mode': 'cors',
+  'sec-fetch-dest': 'empty',
+  'accept-encoding': 'gzip, deflate, br',
+  'accept-language': 'ja,en-US;q=0.9,en;q=0.8'
+}
+[2021-10-14T09:29:19.380] [INFO] json-server - body: 
+[2021-10-14T09:29:19.380] [INFO] json-server - {}
+[2021-10-14T09:29:19.381] [INFO] json-server - undefined
+[2021-10-14T09:29:19.381] [INFO] json-server - query: 
+[2021-10-14T09:29:19.381] [INFO] json-server - {}
+[2021-10-14T09:29:53.877] [INFO] json-server - ===== request =====
+[2021-10-14T09:29:53.877] [INFO] json-server - URL: /account
+[2021-10-14T09:29:53.877] [INFO] json-server - POST
+[2021-10-14T09:29:53.877] [INFO] json-server - header: 
+[2021-10-14T09:29:53.877] [INFO] json-server - {
+  host: 'localhost:48080',
+  connection: 'keep-alive',
+  'content-length': '0',
+  'sec-ch-ua-mobile': '?0',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36',
+  'sec-ch-ua': '"Chromium";v="94", "Google Chrome";v="94", ";Not A Brand";v="99"',
+  'sec-ch-ua-platform': '"Windows"',
+  'content-type': 'application/json',
+  accept: '*/*',
+  'sec-fetch-site': 'none',
+  'sec-fetch-mode': 'cors',
+  'sec-fetch-dest': 'empty',
+  'accept-encoding': 'gzip, deflate, br',
+  'accept-language': 'ja,en-US;q=0.9,en;q=0.8'
+}
+[2021-10-14T09:29:53.877] [INFO] json-server - body: 
+[2021-10-14T09:29:53.877] [INFO] json-server - {}
+[2021-10-14T09:29:53.877] [INFO] json-server - undefined
+[2021-10-14T09:29:53.877] [INFO] json-server - query: 
+[2021-10-14T09:29:53.877] [INFO] json-server - {}
+[2021-10-14T09:30:41.280] [INFO] json-server - ===== request =====
+[2021-10-14T09:30:41.280] [INFO] json-server - URL: /account
+[2021-10-14T09:30:41.280] [INFO] json-server - POST
+[2021-10-14T09:30:41.280] [INFO] json-server - header: 
+[2021-10-14T09:30:41.280] [INFO] json-server - {
+  host: 'localhost:48080',
+  connection: 'keep-alive',
+  'content-length': '0',
+  'sec-ch-ua-mobile': '?0',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36',
+  'sec-ch-ua': '"Chromium";v="94", "Google Chrome";v="94", ";Not A Brand";v="99"',
+  'sec-ch-ua-platform': '"Windows"',
+  'content-type': 'application/json',
+  accept: '*/*',
+  'sec-fetch-site': 'none',
+  'sec-fetch-mode': 'cors',
+  'sec-fetch-dest': 'empty',
+  'accept-encoding': 'gzip, deflate, br',
+  'accept-language': 'ja,en-US;q=0.9,en;q=0.8'
+}
+[2021-10-14T09:30:41.280] [INFO] json-server - body: 
+[2021-10-14T09:30:41.281] [INFO] json-server - {}
+[2021-10-14T09:30:41.281] [INFO] json-server - undefined
+[2021-10-14T09:30:41.281] [INFO] json-server - query: 
+[2021-10-14T09:30:41.281] [INFO] json-server - {}
+[2021-10-14T09:30:50.562] [INFO] json-server - ===== request =====
+[2021-10-14T09:30:50.562] [INFO] json-server - URL: /account
+[2021-10-14T09:30:50.562] [INFO] json-server - GET
+[2021-10-14T09:30:50.562] [INFO] json-server - header: 
+[2021-10-14T09:30:50.562] [INFO] json-server - {
+  host: 'localhost:48080',
+  connection: 'keep-alive',
+  'sec-ch-ua-mobile': '?0',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36',
+  'sec-ch-ua-platform': '"Windows"',
+  'sec-ch-ua': '"Chromium";v="94", "Google Chrome";v="94", ";Not A Brand";v="99"',
+  accept: '*/*',
+  'sec-fetch-site': 'none',
+  'sec-fetch-mode': 'cors',
+  'sec-fetch-dest': 'empty',
+  'accept-encoding': 'gzip, deflate, br',
+  'accept-language': 'ja,en-US;q=0.9,en;q=0.8'
+}
+[2021-10-14T09:30:50.562] [INFO] json-server - query: 
+[2021-10-14T09:30:50.562] [INFO] json-server - {}
+[2021-10-15T00:47:15.219] [INFO] json-server - ===== request =====
+[2021-10-15T00:47:15.219] [INFO] json-server - URL: /account
+[2021-10-15T00:47:15.219] [INFO] json-server - GET
+[2021-10-15T00:47:15.219] [INFO] json-server - header: 
+[2021-10-15T00:47:15.219] [INFO] json-server - {
+  host: 'localhost:48080',
+  connection: 'keep-alive',
+  'sec-ch-ua-mobile': '?0',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36',
+  'sec-ch-ua-platform': '"Windows"',
+  'sec-ch-ua': '"Chromium";v="94", "Google Chrome";v="94", ";Not A Brand";v="99"',
+  accept: '*/*',
+  'sec-fetch-site': 'none',
+  'sec-fetch-mode': 'cors',
+  'sec-fetch-dest': 'empty',
+  'accept-encoding': 'gzip, deflate, br',
+  'accept-language': 'ja,en-US;q=0.9,en;q=0.8',
+  'if-none-match': 'W/"11-wAevH1CRom8U+ro5Q7BsCq7fxwo"'
+}
+[2021-10-15T00:47:15.219] [INFO] json-server - query: 
+[2021-10-15T00:47:15.219] [INFO] json-server - {}
+[2021-10-15T00:47:33.290] [INFO] json-server - ===== request =====
+[2021-10-15T00:47:33.290] [INFO] json-server - URL: /account
+[2021-10-15T00:47:33.290] [INFO] json-server - GET
+[2021-10-15T00:47:33.290] [INFO] json-server - header: 
+[2021-10-15T00:47:33.290] [INFO] json-server - {
+  host: 'localhost:48080',
+  connection: 'keep-alive',
+  'sec-ch-ua-mobile': '?0',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36',
+  'sec-ch-ua-platform': '"Windows"',
+  'sec-ch-ua': '"Chromium";v="94", "Google Chrome";v="94", ";Not A Brand";v="99"',
+  accept: '*/*',
+  'sec-fetch-site': 'none',
+  'sec-fetch-mode': 'cors',
+  'sec-fetch-dest': 'empty',
+  'accept-encoding': 'gzip, deflate, br',
+  'accept-language': 'ja,en-US;q=0.9,en;q=0.8',
+  'if-none-match': 'W/"11-wAevH1CRom8U+ro5Q7BsCq7fxwo"'
+}
+[2021-10-15T00:47:33.290] [INFO] json-server - query: 
+[2021-10-15T00:47:33.290] [INFO] json-server - {}
+[2021-10-15T00:47:42.422] [INFO] json-server - ===== request =====
+[2021-10-15T00:47:42.422] [INFO] json-server - URL: /account
+[2021-10-15T00:47:42.422] [INFO] json-server - GET
+[2021-10-15T00:47:42.422] [INFO] json-server - header: 
+[2021-10-15T00:47:42.422] [INFO] json-server - {
+  host: 'localhost:48080',
+  connection: 'keep-alive',
+  'sec-ch-ua-mobile': '?0',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36',
+  'sec-ch-ua-platform': '"Windows"',
+  'sec-ch-ua': '"Chromium";v="94", "Google Chrome";v="94", ";Not A Brand";v="99"',
+  accept: '*/*',
+  'sec-fetch-site': 'none',
+  'sec-fetch-mode': 'cors',
+  'sec-fetch-dest': 'empty',
+  'accept-encoding': 'gzip, deflate, br',
+  'accept-language': 'ja,en-US;q=0.9,en;q=0.8',
+  'if-none-match': 'W/"11-wAevH1CRom8U+ro5Q7BsCq7fxwo"'
+}
+[2021-10-15T00:47:42.422] [INFO] json-server - query: 
+[2021-10-15T00:47:42.422] [INFO] json-server - {}
+[2021-10-15T00:47:53.356] [INFO] json-server - ===== request =====
+[2021-10-15T00:47:53.356] [INFO] json-server - URL: /account
+[2021-10-15T00:47:53.356] [INFO] json-server - POST
+[2021-10-15T00:47:53.356] [INFO] json-server - header: 
+[2021-10-15T00:47:53.356] [INFO] json-server - {
+  host: 'localhost:48080',
+  connection: 'keep-alive',
+  'content-length': '0',
+  'sec-ch-ua-mobile': '?0',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36',
+  'sec-ch-ua': '"Chromium";v="94", "Google Chrome";v="94", ";Not A Brand";v="99"',
+  'sec-ch-ua-platform': '"Windows"',
+  'content-type': 'application/json',
+  accept: '*/*',
+  'sec-fetch-site': 'none',
+  'sec-fetch-mode': 'cors',
+  'sec-fetch-dest': 'empty',
+  'accept-encoding': 'gzip, deflate, br',
+  'accept-language': 'ja,en-US;q=0.9,en;q=0.8'
+}
+[2021-10-15T00:47:53.356] [INFO] json-server - body: 
+[2021-10-15T00:47:53.356] [INFO] json-server - {}
+[2021-10-15T00:47:53.356] [INFO] json-server - undefined
+[2021-10-15T00:47:53.356] [INFO] json-server - query: 
+[2021-10-15T00:47:53.356] [INFO] json-server - {}
+[2021-10-15T01:38:47.780] [INFO] json-server - JSON Server is running
+[2021-10-15T01:39:24.471] [INFO] json-server - JSON Server is running
+[2021-10-15T01:39:30.789] [INFO] json-server - ===== request =====
+[2021-10-15T01:39:30.789] [INFO] json-server - URL: /regist
+[2021-10-15T01:39:30.789] [INFO] json-server - GET
+[2021-10-15T01:39:30.789] [INFO] json-server - header: 
+[2021-10-15T01:39:30.789] [INFO] json-server - {
+  host: 'localhost:48080',
+  connection: 'keep-alive',
+  'sec-ch-ua-mobile': '?0',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36',
+  'sec-ch-ua-platform': '"Windows"',
+  'sec-ch-ua': '"Chromium";v="94", "Google Chrome";v="94", ";Not A Brand";v="99"',
+  accept: '*/*',
+  'sec-fetch-site': 'none',
+  'sec-fetch-mode': 'cors',
+  'sec-fetch-dest': 'empty',
+  'accept-encoding': 'gzip, deflate, br',
+  'accept-language': 'ja,en-US;q=0.9,en;q=0.8'
+}
+[2021-10-15T01:39:30.790] [INFO] json-server - query: 
+[2021-10-15T01:39:30.790] [INFO] json-server - {}
+[2021-10-15T01:50:17.691] [INFO] json-server - JSON Server is running
+[2021-10-15T01:50:24.547] [INFO] json-server - ===== request =====
+[2021-10-15T01:50:24.548] [INFO] json-server - URL: /account
+[2021-10-15T01:50:24.548] [INFO] json-server - GET
+[2021-10-15T01:50:24.548] [INFO] json-server - header: 
+[2021-10-15T01:50:24.548] [INFO] json-server - {
+  host: 'localhost:48080',
+  connection: 'keep-alive',
+  'sec-ch-ua-mobile': '?0',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36',
+  'sec-ch-ua-platform': '"Windows"',
+  'sec-ch-ua': '"Chromium";v="94", "Google Chrome";v="94", ";Not A Brand";v="99"',
+  accept: '*/*',
+  'sec-fetch-site': 'none',
+  'sec-fetch-mode': 'cors',
+  'sec-fetch-dest': 'empty',
+  'accept-encoding': 'gzip, deflate, br',
+  'accept-language': 'ja,en-US;q=0.9,en;q=0.8'
+}
+[2021-10-15T01:50:24.548] [INFO] json-server - query: 
+[2021-10-15T01:50:24.549] [INFO] json-server - {}
+[2021-10-15T01:50:28.264] [INFO] json-server - ===== request =====
+[2021-10-15T01:50:28.265] [INFO] json-server - URL: /account
+[2021-10-15T01:50:28.265] [INFO] json-server - POST
+[2021-10-15T01:50:28.265] [INFO] json-server - header: 
+[2021-10-15T01:50:28.265] [INFO] json-server - {
+  host: 'localhost:48080',
+  connection: 'keep-alive',
+  'content-length': '0',
+  'sec-ch-ua-mobile': '?0',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36',
+  'sec-ch-ua': '"Chromium";v="94", "Google Chrome";v="94", ";Not A Brand";v="99"',
+  'sec-ch-ua-platform': '"Windows"',
+  'content-type': 'application/json',
+  accept: '*/*',
+  'sec-fetch-site': 'none',
+  'sec-fetch-mode': 'cors',
+  'sec-fetch-dest': 'empty',
+  'accept-encoding': 'gzip, deflate, br',
+  'accept-language': 'ja,en-US;q=0.9,en;q=0.8'
+}
+[2021-10-15T01:50:28.265] [INFO] json-server - body: 
+[2021-10-15T01:50:28.265] [INFO] json-server - {}
+[2021-10-15T01:50:28.265] [INFO] json-server - undefined
+[2021-10-15T01:50:28.265] [INFO] json-server - query: 
+[2021-10-15T01:50:28.265] [INFO] json-server - {}
